@@ -8,15 +8,15 @@
 
 ## How to use
 
-![img](https://imgur.com/Y6ALC15.png)
+![img1](https://imgur.com/octUiZk.png)
 
 - Step 1:- Enter the URL.
 
-![img2](https://imgur.com/r86JdLN.png)
+![img2](https://imgur.com/wbBA7Wc.png)
 
 - Step 2:- Click on Generate to get the URL.
 
-![img3](https://imgur.com/eO1lAKK.png)
+![img3](https://imgur.com/LdzqIXU.png)
 
 - You can find your QR Code on Desktop. It's saved in <i>.png</i> format. With the name of the website on it.
 
