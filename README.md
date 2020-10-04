@@ -14,7 +14,7 @@
 
 ![img2](https://imgur.com/wbBA7Wc.png)
 
-- Step 2:- Click on Generate to get the URL.
+- Step 2:- Click on Generate to get the QR Code.
 
 ![img3](https://imgur.com/LdzqIXU.png)
 
