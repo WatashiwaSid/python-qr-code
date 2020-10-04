@@ -28,5 +28,5 @@
 
 ## License
 
-#### [Click here to read License.](https://github.com/DeadProgrammer0/python-qr-code/blob/master/LICENSE)
+#### [Click here to read License.](https://github.com/yatocodes/python-qr-code/blob/master/LICENSE)
 
